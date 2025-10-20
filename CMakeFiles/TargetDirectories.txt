@@ -1,3 +1,0 @@
-/home/zhen/work_wls/kdtree/CMakeFiles/kdtree.dir
-/home/zhen/work_wls/kdtree/CMakeFiles/edit_cache.dir
-/home/zhen/work_wls/kdtree/CMakeFiles/rebuild_cache.dir
